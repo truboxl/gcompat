@@ -11,6 +11,11 @@
 1.1 (202?-??-??)
 ================
 
+auxv
+----
+
+* Add __getauxval wrapper for getauxval.
+
 locale
 ------
 

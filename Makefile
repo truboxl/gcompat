@@ -2,6 +2,7 @@ LIBGCOMPAT_INCLUDE = \
 	libgcompat/alias.h \
 	libgcompat/internal.h
 LIBGCOMPAT_SRC = \
+	libgcompat/auxv.c		\
 	libgcompat/ctype.c		\
 	libgcompat/cxx_thread.c		\
 	libgcompat/dlfcn.c		\
